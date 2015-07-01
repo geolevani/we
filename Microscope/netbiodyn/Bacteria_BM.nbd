@@ -1,0 +1,291 @@
+version:3d-1.0
+class netbiodyn.ProtoReaxel
+	Etiquettes:Bact
+	Manipules:
+	Relais:
+	X:0
+	Y:0
+	visibleDansPanel:true
+	couleur:-65536
+	demie_vie:0.0
+	vidable:true
+	forme:1
+	taille:0
+	tailleFenetre:100
+	mobilite_rotation:0.0
+	mobilite_translation_x:0.0
+	mobilite_translation_y:0.0
+	mobilite_translation_z:0.0
+	nbPosAngulaires:1
+	pseudoAffinite:0;0;0;0;0;0;0;0
+	pseudoCharge:0;0;0;0;0;0;0;0;0
+	visibleDansPanel:true
+Fin
+
+class netbiodyn.ProtoReaxel
+	Etiquettes:IS
+	Manipules:
+	Relais:
+	X:0
+	Y:0
+	visibleDansPanel:true
+	couleur:-16724992
+	demie_vie:150.0
+	vidable:true
+	forme:1
+	taille:0
+	tailleFenetre:100
+	mobilite_rotation:0.0
+	mobilite_translation_x:0.0
+	mobilite_translation_y:0.0
+	mobilite_translation_z:0.0
+	nbPosAngulaires:1
+	pseudoAffinite:0;0;0;0;0;0;0;0
+	pseudoCharge:0;0;0;0;0;0;0;0;0
+	visibleDansPanel:true
+Fin
+
+class netbiodyn.ProtoReaxel
+	Etiquettes:BM
+	Manipules:
+	Relais:
+	X:0
+	Y:0
+	visibleDansPanel:true
+	couleur:-16777012
+	demie_vie:0.0
+	vidable:true
+	forme:1
+	taille:0
+	tailleFenetre:100
+	mobilite_rotation:0.0
+	mobilite_translation_x:0.0
+	mobilite_translation_y:0.0
+	mobilite_translation_z:0.0
+	nbPosAngulaires:1
+	pseudoAffinite:0;0;0;0;0;0;0;0
+	pseudoCharge:0;0;0;0;0;0;0;0;0
+	visibleDansPanel:true
+Fin
+
+class netbiodyn.MoteurReaction
+	Etiquettes:diffBact
+	Manipules:
+	Relais:
+	X:0
+	Y:0
+	visibleDansPanel:true
+	Description:
+	reactif:Bact
+	reactif:0
+	reactif:*
+	produit:0
+	produit:Bact
+	produit:-
+	k:1.0
+	type:0
+	pos:122222222
+	pos:212101210
+	pos:212101210
+	pos:212101210
+	pos:212101210
+	pos:212101210
+	pos:212101210
+	pos:212101210
+	pos:212101210
+Fin
+
+class netbiodyn.MoteurReaction
+	Etiquettes:diffIS
+	Manipules:
+	Relais:
+	X:0
+	Y:0
+	visibleDansPanel:true
+	Description:
+	reactif:IS
+	reactif:0
+	reactif:*
+	produit:0
+	produit:IS
+	produit:-
+	k:1.0
+	type:0
+	pos:122222222
+	pos:212101210
+	pos:212101210
+	pos:212101210
+	pos:212101210
+	pos:212101210
+	pos:212101210
+	pos:212101210
+	pos:212101210
+Fin
+
+class netbiodyn.MoteurReaction
+	Etiquettes:BactDiv
+	Manipules:
+	Relais:
+	X:0
+	Y:0
+	visibleDansPanel:true
+	Description:
+	reactif:Bact
+	reactif:0
+	reactif:*
+	produit:Bact
+	produit:Bact
+	produit:-
+	k:0.01
+	type:0
+	pos:122222222
+	pos:212101210
+	pos:212101210
+	pos:212101210
+	pos:212101210
+	pos:212101210
+	pos:212101210
+	pos:212101210
+	pos:212101210
+Fin
+
+class netbiodyn.MoteurReaction
+	Etiquettes:ISrowth
+	Manipules:
+	Relais:
+	X:0
+	Y:0
+	visibleDansPanel:true
+	Description:
+	reactif:IS
+	reactif:Bact
+	reactif:*
+	produit:IS
+	produit:IS
+	produit:-
+	k:1.0
+	type:0
+	pos:122222222
+	pos:212101210
+	pos:212101210
+	pos:212101210
+	pos:212101210
+	pos:212101210
+	pos:212101210
+	pos:212101210
+	pos:212101210
+Fin
+
+class netbiodyn.MoteurReaction
+	Etiquettes:addIS
+	Manipules:
+	Relais:
+	X:0
+	Y:0
+	visibleDansPanel:true
+	Description:
+	reactif:BM
+	reactif:0
+	reactif:*
+	produit:BM
+	produit:IS
+	produit:-
+	k:0.01
+	type:0
+	pos:122222222
+	pos:212101210
+	pos:212101210
+	pos:212101210
+	pos:212101210
+	pos:212101210
+	pos:212101210
+	pos:212101210
+	pos:212101210
+Fin
+
+class netbiodyn.MoteurInfluenceCharges
+	Etiquettes:AUTO_ionette
+	Manipules:
+	Relais:
+	X:0
+	Y:0
+	visibleDansPanel:true
+Fin
+
+class netbiodyn.MoteurInfluenceAdhesion
+	Etiquettes:AUTO_affome
+	Manipules:
+	Relais:
+	X:0
+	Y:0
+	visibleDansPanel:true
+Fin
+
+class netbiodyn.MoteurInfluenceLiens
+	Etiquettes:AUTO_liens
+	Manipules:
+	Relais:
+	X:0
+	Y:0
+	visibleDansPanel:true
+Fin
+
+biodyn_net.Environnement
+	tailleX:100
+	tailleY:100
+	tailleZ:2
+Fin
+
+Reaxels
+	Reaxel:Bact:74:55:0
+	Reaxel:Bact:38:51:0
+	Reaxel:IS:5:52:0
+	Reaxel:Bact:46:41:0
+	Reaxel:IS:57:76:0
+	Reaxel:IS:76:50:0
+	Reaxel:Bact:42:55:0
+	Reaxel:Bact:57:53:0
+	Reaxel:Bact:41:74:0
+	Reaxel:IS:12:44:0
+	Reaxel:IS:88:23:0
+	Reaxel:IS:37:3:0
+	Reaxel:Bact:42:46:0
+	Reaxel:Bact:41:55:0
+	Reaxel:Bact:73:53:0
+	Reaxel:Bact:57:57:0
+	Reaxel:Bact:53:62:0
+	Reaxel:Bact:37:65:0
+	Reaxel:IS:81:81:0
+	Reaxel:Bact:63:63:0
+	Reaxel:IS:24:34:0
+	Reaxel:IS:88:66:0
+	Reaxel:Bact:68:56:0
+	Reaxel:Bact:72:64:0
+	Reaxel:Bact:46:47:0
+	Reaxel:IS:40:96:0
+	Reaxel:Bact:42:72:0
+	Reaxel:IS:73:78:0
+	Reaxel:IS:60:40:0
+	Reaxel:IS:93:41:0
+	Reaxel:Bact:36:77:0
+	Reaxel:IS:8:47:0
+	Reaxel:Bact:60:62:0
+	Reaxel:Bact:44:58:0
+	Reaxel:IS:19:46:0
+	Reaxel:Bact:47:60:0
+	Reaxel:Bact:34:37:0
+	Reaxel:IS:91:31:0
+	Reaxel:Bact:74:65:0
+	Reaxel:BM:90:30:0
+	Reaxel:BM:83:71:0
+	Reaxel:BM:8:51:0
+	Reaxel:BM:45:89:0
+	Reaxel:BM:53:4:0
+Fin
+
+Connexels
+Fin
+
+Complexels:
+Fin
+

@@ -1,0 +1,333 @@
+fileFormatVersion: 2
+guid: 5109dd9590edee244bd7db1db8d3feb6
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: group_0
+    100002: group_1
+    100004: group_10
+    100006: group_11
+    100008: Group_17
+    100010: Group_17 1
+    100012: Group_17 2
+    100014: Group_17 3
+    100016: Group_17 4
+    100018: group_2
+    100020: group_3
+    100022: group_3 1
+    100024: group_3 2
+    100026: group_3 3
+    100028: group_3 4
+    100030: group_4
+    100032: group_4 1
+    100034: group_4 2
+    100036: group_4 3
+    100038: group_4 4
+    100040: group_5
+    100042: group_5 1
+    100044: group_5 2
+    100046: group_5 3
+    100048: group_5 4
+    100050: group_6
+    100052: group_7
+    100054: group_8
+    100056: group_9
+    100058: ID120
+    100060: ID13
+    100062: ID132
+    100064: ID138
+    100066: ID144
+    100068: ID150
+    100070: ID156
+    100072: ID162
+    100074: ID182
+    100076: ID188
+    100078: ID19
+    100080: ID194
+    100082: ID200
+    100084: ID206
+    100086: ID212
+    100088: ID25
+    100090: ID33
+    100092: ID73
+    100094: ID73 1
+    100096: ID73 2
+    100098: ID73 3
+    100100: ID73 4
+    100102: instance_0
+    100104: instance_1
+    100106: instance_2
+    100108: instance_2 1
+    100110: instance_2 2
+    100112: instance_2 3
+    100114: instance_2 4
+    100116: instance_3
+    100118: instance_4
+    100120: instance_5
+    100122: instance_6
+    100124: //RootNode
+    100126: OFFICE_CHAIR_1
+    100128: OFFICE_CHAIR_LEG_1
+    100130: OFFICE_CHAIR_LEG_1 1
+    100132: OFFICE_CHAIR_LEG_1 2
+    100134: OFFICE_CHAIR_LEG_1 3
+    100136: OFFICE_CHAIR_LEG_1 4
+    400000: group_0
+    400002: group_1
+    400004: group_10
+    400006: group_11
+    400008: Group_17
+    400010: Group_17 1
+    400012: Group_17 2
+    400014: Group_17 3
+    400016: Group_17 4
+    400018: group_2
+    400020: group_3
+    400022: group_3 1
+    400024: group_3 2
+    400026: group_3 3
+    400028: group_3 4
+    400030: group_4
+    400032: group_4 1
+    400034: group_4 2
+    400036: group_4 3
+    400038: group_4 4
+    400040: group_5
+    400042: group_5 1
+    400044: group_5 2
+    400046: group_5 3
+    400048: group_5 4
+    400050: group_6
+    400052: group_7
+    400054: group_8
+    400056: group_9
+    400058: ID120
+    400060: ID13
+    400062: ID132
+    400064: ID138
+    400066: ID144
+    400068: ID150
+    400070: ID156
+    400072: ID162
+    400074: ID182
+    400076: ID188
+    400078: ID19
+    400080: ID194
+    400082: ID200
+    400084: ID206
+    400086: ID212
+    400088: ID25
+    400090: ID33
+    400092: ID73
+    400094: ID73 1
+    400096: ID73 2
+    400098: ID73 3
+    400100: ID73 4
+    400102: instance_0
+    400104: instance_1
+    400106: instance_2
+    400108: instance_2 1
+    400110: instance_2 2
+    400112: instance_2 3
+    400114: instance_2 4
+    400116: instance_3
+    400118: instance_4
+    400120: instance_5
+    400122: instance_6
+    400124: //RootNode
+    400126: OFFICE_CHAIR_1
+    400128: OFFICE_CHAIR_LEG_1
+    400130: OFFICE_CHAIR_LEG_1 1
+    400132: OFFICE_CHAIR_LEG_1 2
+    400134: OFFICE_CHAIR_LEG_1 3
+    400136: OFFICE_CHAIR_LEG_1 4
+    2300000: group_0
+    2300002: group_1
+    2300004: group_10
+    2300006: group_11
+    2300008: Group_17
+    2300010: Group_17 1
+    2300012: Group_17 2
+    2300014: Group_17 3
+    2300016: Group_17 4
+    2300018: group_2
+    2300020: group_3
+    2300022: group_3 1
+    2300024: group_3 2
+    2300026: group_3 3
+    2300028: group_3 4
+    2300030: group_4
+    2300032: group_4 1
+    2300034: group_4 2
+    2300036: group_4 3
+    2300038: group_4 4
+    2300040: group_5
+    2300042: group_5 1
+    2300044: group_5 2
+    2300046: group_5 3
+    2300048: group_5 4
+    2300050: group_6
+    2300052: group_7
+    2300054: group_8
+    2300056: group_9
+    2300058: ID120
+    2300060: ID13
+    2300062: ID132
+    2300064: ID138
+    2300066: ID144
+    2300068: ID150
+    2300070: ID156
+    2300072: ID162
+    2300074: ID182
+    2300076: ID188
+    2300078: ID19
+    2300080: ID194
+    2300082: ID200
+    2300084: ID206
+    2300086: ID212
+    2300088: ID25
+    2300090: ID33
+    2300092: ID73
+    2300094: ID73 1
+    2300096: ID73 2
+    2300098: ID73 3
+    2300100: ID73 4
+    2300102: OFFICE_CHAIR_1
+    3300000: group_0
+    3300002: group_1
+    3300004: group_10
+    3300006: group_11
+    3300008: Group_17
+    3300010: Group_17 1
+    3300012: Group_17 2
+    3300014: Group_17 3
+    3300016: Group_17 4
+    3300018: group_2
+    3300020: group_3
+    3300022: group_3 1
+    3300024: group_3 2
+    3300026: group_3 3
+    3300028: group_3 4
+    3300030: group_4
+    3300032: group_4 1
+    3300034: group_4 2
+    3300036: group_4 3
+    3300038: group_4 4
+    3300040: group_5
+    3300042: group_5 1
+    3300044: group_5 2
+    3300046: group_5 3
+    3300048: group_5 4
+    3300050: group_6
+    3300052: group_7
+    3300054: group_8
+    3300056: group_9
+    3300058: ID120
+    3300060: ID13
+    3300062: ID132
+    3300064: ID138
+    3300066: ID144
+    3300068: ID150
+    3300070: ID156
+    3300072: ID162
+    3300074: ID182
+    3300076: ID188
+    3300078: ID19
+    3300080: ID194
+    3300082: ID200
+    3300084: ID206
+    3300086: ID212
+    3300088: ID25
+    3300090: ID33
+    3300092: ID73
+    3300094: ID73 1
+    3300096: ID73 2
+    3300098: ID73 3
+    3300100: ID73 4
+    3300102: OFFICE_CHAIR_1
+    4300000: OFFICE_CHAIR_1
+    4300002: group_0
+    4300004: ID13
+    4300006: ID19
+    4300008: ID25
+    4300010: ID33
+    4300012: group_1
+    4300014: group_2
+    4300016: group_3
+    4300018: ID73
+    4300020: group_4
+    4300022: Group_17
+    4300024: group_5
+    4300026: group_6
+    4300028: group_7
+    4300030: group_8
+    4300032: ID132
+    4300034: ID138
+    4300036: ID144
+    4300038: ID150
+    4300040: ID156
+    4300042: ID162
+    4300044: group_9
+    4300046: ID120
+    4300048: group_10
+    4300050: ID182
+    4300052: ID188
+    4300054: ID194
+    4300056: ID200
+    4300058: ID206
+    4300060: ID212
+    4300062: group_11
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
